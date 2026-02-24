@@ -1,0 +1,21 @@
+{
+  "name": "@neural/mobile",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "expo start",
+    "build": "echo 'use eas build'",
+    "typecheck": "tsc --noEmit",
+    "test": "echo 'mobile tests skipped'"
+  },
+  "dependencies": {
+    "@neural/shared": "workspace:*",
+    "expo": "^51.0.28",
+    "react": "18.3.1",
+    "react-native": "0.74.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.5",
+    "typescript": "^5.6.2"
+  }
+}

@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { @apply bg-zinc-950 text-zinc-100; }
+button { @apply rounded-lg border border-zinc-700 px-3 py-2 text-sm; }
+input, select { @apply rounded-lg bg-zinc-900 border border-zinc-700 px-3 py-2; }

@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Neural",
+    "slug": "neural",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "newArchEnabled": true
+  }
+}
